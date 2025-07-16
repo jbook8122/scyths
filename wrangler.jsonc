@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "scyths",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "scyths-openapi-template-db",
+      "database_id": "a6e84558-025d-4129-a60e-6de81a694bae"
+    }
+  ]
+}
